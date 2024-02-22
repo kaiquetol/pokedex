@@ -1,0 +1,4 @@
+Configurar o git local:
+
+git config --global user.name kaiquetol
+git config --global user.kaiquetolentino21@gmail.com
